@@ -1,0 +1,51 @@
+Precondition Violated Exception. Cart is full.
+
+Cart overflow: Reminders of Him: A Novel
+Prod ID: 6 couldn't be added to the cart.
+Max items: 7
+
+==========Tesing Cart============
+
+[Movie]
+Product ID: 1	Product Name: Sound of Music
+Price: $22		Product Rate Review: 9.2
+Release Year: 1965
+Film Rating: 1
+Run Time: 175
+Director: Robert Wise
+
+[Ebook]
+Product ID: 2	Product Name: The old Man and the Sea
+Price: $8.3		Product Rate Review: 9.2
+Author: Ernest Hemmingway
+Pages: 127
+
+[Movie]
+Product ID: 3	Product Name: Star Wars
+Price: $22		Product Rate Review: 8.5
+Release Year: 1977
+Film Rating: 2
+Run Time: 120
+Director: George Lucas
+
+[Music]
+Product ID: 4	Product Name: Rewrite The Stars
+Price: $3.4		Product Rate Review: 8.9
+Singer Name: Zac Efron
+Genre: 6
+
+[Game]
+Product ID: 7	Product Name: Mario Brothers
+Price: $19.99		Product Rate Review: 9.3
+Version: 2
+console type: 2
+
+===== Summary of Purchase ======
+Total number of purchases: 5
+Total purchasing amount: $60.2
+Average cost: $12.04
+
+===== Customer's information ======
+Cart owner: John Smith
+Email: me1234@gmail.com
+Current Balance: $60.2
